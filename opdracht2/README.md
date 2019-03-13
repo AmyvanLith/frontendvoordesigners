@@ -13,3 +13,4 @@ On click op de pijlen heb ik de functies laten starten. Linker pijl voor vorige 
 
 De laatste stap van de opdracht was het toevoegen van een keyboard event. Dit deed ik met de eventListener "keydown". Daar gebruikte ik 2x het if statement waarin de links en rechts pijl toetsen in een getal aangegeven stonden. Bij het drukken op die toetsen start nu dezelfde functie als bij het klikken op de links en rechts pijlen op het scherm.
 
+[Demo eindversie](https://oege.ie.hva.nl/~litha1/carousel/)
