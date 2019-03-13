@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #333;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 15px auto;
+}
+
+.foto-carousel {
+    position: relative;
+    display: flex;
+    height: 80vh;
+}
+
+.foto-items {
+    position: relative;
+    flex: 1;
+    overflow: hidden;
+    user-select: none;
+}
+
+.foto-item {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.foto-items img.active {
+    display: flex;
+
+}
+
+
+.foto-items img{
+    object-fit: cover;
+    object-position: 50% 2%;
+    width: calc(100% + 4em);
+    vertical-align: middle;
+    margin: -2em -2em 1.25em;
+    justify-content: flex-start;
+    display: none;
+}
+
+span{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.8);
+    z-index: 100;
+    top: calc(50% - 50px);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+span.left{
+    left: 0;
+    border-radius: 0px 10px 10px 0px;
+    background-image: url(../images/back.svg);
+}
+
+span.right{
+    right: 0;
+    border-radius: 10px 0px 0px 10px;
+    background-image: url(../images/next.svg);
+}
+
+span:hover{
+    background-color: #ffffff;
+}
+
