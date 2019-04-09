@@ -1,0 +1,267 @@
+[
+    {
+        "id":1,
+        "type":"film",
+        "title":"To All the Boys I've Loved Before",
+        "plot":"Lara Jean Covey writes letters to all of her past loves, the letters are meant for her eyes only. Until one day when all the love letters are sent out to her previous loves. Her life is soon thrown into chaos when her foregoing loves confront her one by one.",
+        "simple_plot":"A teenage girl's secret love letters are exposed and wreak havoc on her love life.",
+        "release_date":" 17 August 2018",
+        "cover":"https://m.media-amazon.com/images/M/MV5BMjQ3NjM5MTAzN15BMl5BanBnXkFtZTgwODQzMDAwNjM@._V1_SY1000_CR0,0,639,1000_AL_.jpg",
+        "trailer":"https://www.imdb.com/videoembed/vi1188150041",
+        "genres":["Drama", "Romance"],
+
+        "directors":[
+            {
+                "id":2,
+                "name":" Susan Johnson",
+                "movie_id":1
+            }],
+        "actors":[
+            {
+                "id":3,"actor_name":"Lana Condor",
+                "movie_id":1,
+                "character":"Lara Jean",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BMjIwMjU2MTk5MV5BMl5BanBnXkFtZTgwMDg1MTM5NjE@._V1_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm7093076/?ref_=tt_cl_t1"
+            },{
+                "id":4,
+                "actor_name":"Noah Centineo",
+                "movie_id":1,
+                "character":"Peter",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BZjRiZGI4YzQtNmZkNC00YWQzLTk0YWItMGVmNWJkNTkwMmM5XkEyXkFqcGdeQXVyODMzMTM1MDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm3170207/?ref_=tt_cl_t2"
+            },{
+                "id":5,
+                "actor_name":"Janel Parrish",
+                "movie_id":1,
+                "character":"Margot",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BMTc3MTE5NjM0Nl5BMl5BanBnXkFtZTgwNzc5OTgwMDI@._V1_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm0663546/?ref_=tt_cl_t3"
+            },{
+                "id":6,
+                "actor_name":"Anna Cathcart",
+                "movie_id":1,"character":"Kitty",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BMTU2MjI5NjA0Ml5BMl5BanBnXkFtZTgwMDM1NTQxNjM@._V1_SY1000_CR0,0,761,1000_AL_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm8264172/?ref_=tt_cl_t4"
+            }]
+    },{
+        "id":2,
+        "type":"film",
+        "title":"Now You See Me",
+        "plot":"Four magicians each answer a mysterious summons to an obscure address with secrets inside. A year later, they are the Four Horsemen, big time stage illusionists who climax their sold out Las Vegas show with a bank apparently robbed for real. This puts agents Dylan Rhodes of the FBI and Alma Dray of Interpol on the case to find out how they did it. However, this mystery proves difficult to solve even with the insights of the professional illusion exposer, Thaddeus Bradley. What follows is a bizarre investigation where nothing is what it seems with illusions, dark secrets and hidden agendas galore as all involved are reminded of a great truth in this puzzle: the closer you look, the less you see.",
+        "simple_plot":"An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
+        "release_date":" 27 juni 2013",
+        "cover":"https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_SY1000_CR0,0,642,1000_AL_.jpg",
+        "trailer":"https://www.imdb.com/videoembed/vi378775833",
+        "genres":["Crime", " Mystery", "Thriller"],
+
+        "directors":[
+            {
+                "id":2,
+                "name":" Louis Leterrier",
+                "movie_id":2
+            }],
+        "actors":[
+            {
+                "id":3,"actor_name":"Lana Condor",
+                "movie_id":1,
+                "character":"Lara Jean",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BMjIwMjU2MTk5MV5BMl5BanBnXkFtZTgwMDg1MTM5NjE@._V1_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm7093076/?ref_=tt_cl_t1"
+            },{
+                "id":4,
+                "actor_name":"Ellen Sandweiss",
+                "movie_id":2,
+                "character":"Cheryl",
+                "url_character":"https://www.imdb.com/title/tt1288558/characters/nm0762445",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BMTI1MzA4NjQzNF5BMl5BanBnXkFtZTYwODE4MTky._V1_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm0762445/"
+            },{
+                "id":5,
+                "actor_name":"Jessica Lucas",
+                "movie_id":2,
+                "character":"Olivia",
+                "url_character":"https://www.imdb.com/title/tt1288558/characters/nm1140300",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BNjI5NDA1MDYxMF5BMl5BanBnXkFtZTcwODU5NjgyMQ@@._V1_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm1140300/"
+            },{
+                "id":6,
+                "actor_name":"Elizabeth Blackmore",
+                "movie_id":2,"character":"Shelly",
+                "url_character":"https://www.imdb.com/title/tt1288558/characters/nm3899933",
+                "url_photo":"https://m.media-amazon.com/images/M/MV5BNTUzODc2OWItM2M2OS00YTQyLTgyMmItYTI2N2EwOWQxODM4XkEyXkFqcGdeQXVyMjgzMTMxMTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+                "url_profile":"https://www.imdb.com/name/nm3899933/"
+            }]
+    },{
+        "id":3,
+        "type":"film",
+        "title":"Sierra Burgess Is a Loser",
+        "plot":"SIERRA BURGESS IS A LOSER is a modern rom-com retelling of the Cyrano de Bergerac story set in high school. The story centers on Sierra (Shannon Purser), an intelligent teen who does not fall into the shallow definition of high school pretty but, in a case of mistaken identity that results in unexpected romance, must team with the popular girl (Kristine Froseth) in order to win her crush. Also starring RJ Cyler, Noah Centineo, Chrissy Metz and Lea Thompson.",
+        "simple_plot":"A case of mistaken identity results in unexpected romance when the most popular girl in high school and the biggest loser must come together to win over their crushes.",
+        "cover":"https://m.media-amazon.com/images/M/MV5BMTU5Mjc4NTM2Ml5BMl5BanBnXkFtZTgwMjMzMzA5NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "release_date":" 27 juni 2013",
+        "trailer":"https://www.imdb.com/videoembed/vi405060377",
+        "genres":["Comedy","Drama", "Romance"],
+        "directors":[
+          {
+            "id":2,
+            "name":"Josh Boone",
+            "movie_id":3
+          }
+        ],
+        "actors":[
+          {
+            "id":3,
+            "actor_name":"Shannon Purser",
+            "movie_id":3,
+            "character":"Sierra", "url_photo":"https://m.media-amazon.com/images/M/MV5BMTU3NDIwNjUzMV5BMl5BanBnXkFtZTgwMjExMDYyMDI@._V1_SY1000_CR0,0,1479,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm7684864/?ref_=tt_cl_t1"
+          },{
+            "id":4,
+            "actor_name":"Kristine Froseth",
+            "movie_id":3,
+            "character":"Veronica", "url_photo":"https://m.media-amazon.com/images/M/MV5BMjE2ODE1NzkxMl5BMl5BanBnXkFtZTgwNzk3ODk3ODE@._V1_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm8109082/?ref_=tt_cl_t2"
+          },{
+            "id":5,
+            "actor_name":"RJ Cyler",
+            "movie_id":3,
+            "character":"Dan",
+            "url_photo":"https://m.media-amazon.com/images/M/MV5BMjAwMzE3NzgyN15BMl5BanBnXkFtZTcwNDcxOTAxOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm5518972/?ref_=tt_cl_t3"
+          },{
+            "id":6,
+            "actor_name":"Noah Centineo",
+            "movie_id":3,
+            "character":"Jamey", "url_photo":"https://m.media-amazon.com/images/M/MV5BZjRiZGI4YzQtNmZkNC00YWQzLTk0YWItMGVmNWJkNTkwMmM5XkEyXkFqcGdeQXVyODMzMTM1MDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm3170207/?ref_=tt_cl_t4"
+          }
+        ]
+    },{
+        "id":4,
+        "type":"film",
+        "title":"Isn't It Romantic",
+        "plot":"A young woman disenchanted with love mysteriously finds herself trapped inside a romantic comedy.",
+        "simple_plot":"A young woman disenchanted with love mysteriously finds herself trapped inside a romantic comedy.",
+        "cover":"https://m.media-amazon.com/images/M/MV5BZGE1NGYxOWItODdmMy00NWNhLTgxZmMtYmVjYmViMGI0NTdmXkEyXkFqcGdeQXVyNzE2MTQyMzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "release_date":"28 February 2019",
+        "trailer":"https://www.imdb.com/videoembed/vi3347954201",
+        "genres":["Comedy","Fantasy", "Romance"],
+        "directors":[
+          {
+            "id":2,
+            "name":"Todd Strauss-Schulson",
+            "movie_id":4
+          }
+        ],
+        "actors":[
+          {
+            "id":3,
+            "actor_name":"Rebel Wilson",
+            "movie_id":4,
+            "character":"Natalie",
+            "url_photo":"https://m.media-amazon.com/images/M/MV5BMjEyMTIzOTI2OV5BMl5BanBnXkFtZTgwNTYxMjc0NTE@._V1_SY1000_CR0,0,1706,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm2313103/?ref_=tt_cl_t1"
+          },{
+            "id":4,
+            "actor_name":"Liam Hemsworth",
+            "movie_id":4,
+            "character":"Blake",
+            "url_photo":"https://m.media-amazon.com/images/M/MV5BMTQ5ODI0MDc4M15BMl5BanBnXkFtZTgwNTM5MDk3MTE@._V1_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm2955013/?ref_=tt_cl_t2"
+          },{
+            "id":5,
+            "actor_name":"Adam Devine",
+            "movie_id":4,
+            "character":"Josh",
+            "url_photo":"https://m.media-amazon.com/images/M/MV5BMTU2MzI2NTc5NF5BMl5BanBnXkFtZTgwMzkzNTY4NjE@._V1_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm2796745/?ref_=tt_cl_t3"
+          },{
+            "id":6,
+            "actor_name":"Priyanka Chopra",
+            "movie_id":4,
+            "character":"Isabella",
+            "url_photo":"https://m.media-amazon.com/images/M/MV5BMjAxNzUwNjExOV5BMl5BanBnXkFtZTcwNDUyMTUxNw@@._V1_SY1000_CR0,0,1339,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm1231899/?ref_=tt_cl_t4"
+          }
+        ]
+    },{
+        "id":5,
+        "type":"film",
+        "title":"Before I Fall",
+        "plot":"February 12 is just another day in Sam's charmed life, until it turns out to be her last. Stuck reliving her last day over and over, Sam untangles the mystery around her death and discovers everything she's losing.",
+        "simple_plot":"What if you had only one day to change absolutely everything? Samantha Kingston has it all: the perfect friends, the perfect guy, and a seemingly perfect future. Then, everything changes. After one fateful night, Sam wakes up with no future at all. Trapped reliving the same day over and over she begins to question just how perfect her life really was. And as she begins to untangle the mystery of a life suddenly derailed, she must also unwind the secrets of the people closest to her, and discover the power of a single day to make a difference, not just in her own life, but in the lives of those around her - before she runs out of time for good.",
+        "release_date":"20 April 2017",
+        "cover":"https://m.media-amazon.com/images/M/MV5BNDYwOTY0MDI2OV5BMl5BanBnXkFtZTgwOTE5NzM2MDI@._V1_SY1000_SX675_AL_.jpg",
+        "trailer":"https://www.imdb.com/videoembed/vi405060377",
+        "genres":["Drama","Mysterie", "Fantasy"],
+        "directors":[
+          {
+            "id":2,
+            "name":"Josh Boone",
+            "movie_id":5
+          }
+        ],
+        "actors":[
+          {
+            "id":3,
+            "actor_name":"Zoey Deutch",
+            "movie_id":5,
+            "character":"Samantha Kingston", "url_photo":"https://m.media-amazon.com/images/M/MV5BMTU3NDIwNjUzMV5BMl5BanBnXkFtZTgwMjExMDYyMDI@._V1_SY1000_CR0,0,1479,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm7684864/?ref_=tt_cl_t1"
+          },{
+            "id":4,
+            "actor_name":"Halston Sage",
+            "movie_id":5,
+            "character":"Lindsay Edgecomb", "url_photo":"https://m.media-amazon.com/images/M/MV5BMjE2ODE1NzkxMl5BMl5BanBnXkFtZTgwNzk3ODk3ODE@._V1_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm8109082/?ref_=tt_cl_t2"
+          },{
+            "id":5,
+            "actor_name":"Logan Miller",
+            "movie_id":5,
+            "character":"Kent McFuller",
+            "url_photo":"https://m.media-amazon.com/images/M/MV5BMjAwMzE3NzgyN15BMl5BanBnXkFtZTcwNDcxOTAxOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm5518972/?ref_=tt_cl_t3"
+          },{
+            "id":6,
+            "actor_name":"Kian Lawley",
+            "movie_id":5,
+            "character":"Rob Cokran",
+            "url_photo":"https://m.media-amazon.com/images/M/MV5BZjRiZGI4YzQtNmZkNC00YWQzLTk0YWItMGVmNWJkNTkwMmM5XkEyXkFqcGdeQXVyODMzMTM1MDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+            "url_profile":"https://www.imdb.com/name/nm3170207/?ref_=tt_cl_t4"
+          }
+        ]
+    },{
+        "id":6,
+        "type":"film",
+        "title":"The fault in our stars",
+        "plot":"Andy Dufresne is a young and successful banker whose life changes drastically when he is convicted and sentenced to life imprisonment for the murder of his wife and her lover. Set in the 1940's, the film shows how Andy, with the help of his friend Red, the prison entrepreneur, turns out to be a most unconventional prisoner. Written by Martin Lewison",
+        "simple_plot":"Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.",
+        "release_date":"14 October 1994",
+        "cover":"https://m.media-amazon.com/images/M/MV5BMjA4NzkxNzc5Ml5BMl5BanBnXkFtZTgwNzQ3OTMxMTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "trailer":"https://www.youtube.com/embed/9ItBvH5J6ss",
+        "genres":["Crime","Drama"],
+        "directors":[
+          {
+            "id":2,
+            "name":"Josh Boone",
+            "movie_id":6
+          }
+        ],
+        "actors":[
+          {
+            "id":3,
+            "actor_name":"Shailene Woodley",
+            "movie_id":6,
+            "character":"Hazel", "url_character":"https://www.imdb.com/title/tt2582846/characters/nm0940362?ref_=tt_cl_t1",
+            "url_profile":"https://www.imdb.com/name/nm0940362/?ref_=tt_cl_t1"
+          },{
+            "id":4,
+            "actor_name":"Ansel Elgort",
+            "movie_id":6,
+            "character":"Gus", "url_character":"https://www.imdb.com/title/tt2582846/characters/nm5052065?ref_=tt_cl_t2",
+            "url_profile":"https://www.imdb.com/name/nm5052065/?ref_=tt_cl_t2"
+          }
+        ]
+    }
+]

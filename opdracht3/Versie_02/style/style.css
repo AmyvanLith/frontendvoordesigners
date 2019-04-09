@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,700');
+
+:root {
+    --default-color-background: #fcfcfc;
+    --default-color-yellow: #FCC634;
+    --default-color-headlines: #181717;
+    --default-color-text: #B5B5B5;
+    --default-color-grey: #F4F4F5;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--default-color-background);
+    font-family: 'Roboto', sans-serif;
+    color: var(--default-color-headlines);
+}
+
+section {
+    padding: 1rem .8rem .8rem;
+    max-width: 75em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    padding: 1rem .8rem .8rem;
+    max-width: 75em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.0625rem;
+    margin: 1.2rem 1.5rem 1.5rem 0;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 2.0625rem;
+    margin: 22.5px 0 7.5px;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin: 0.3rem 0;
+    line-height: 1.5rem;
+}
+
+p.datum{
+    color: var(--default-color-text);
+    font-weight: 400;
+    font-size: 0.8125rem;
+}
+
+p.intro{
+    color: #4A4A4A;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 20px;
+    margin: 20px 0 20px 0;
+}
+
+.overFilm{
+    border-bottom: #EFEFEF 1px solid;
+    padding: 0 0 30px 0;
+    margin: 0 0 30px 0;
+}
+
+.acteurs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 0.75rem;
+}
+
+.acteurs img{
+    width: 100%;
+    height: 75px;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+header {
+    background-color: #ffffff;
+        box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+nav ul li {
+    padding-left: 1rem;
+}
+
+nav ul li:first-child {
+    justify-content: flex-start;
+    margin-right: auto;
+    padding: 0;
+}
+
+nav ul li:first-child a {
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+nav ul li a {
+    display: flex;
+    flex-direction: row;
+    line-height: 1.8rem;
+    color: #232D37;
+    text-decoration: none;
+    transition: .4s;
+}
+
+a.active {
+    color: #46ACC2;
+}
+
+
+a:hover{
+    color: #46ACC2;
+}
+
+a img {
+    display: none;
+}
+
+
+section.overzicht {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 1.75rem;
+    grid-row-gap: 2.15rem;
+/*    width: calc(100% - 3rem);*/
+    margin: auto;
+
+}
+
+section.detail {
+    /**/
+}
+
+section.detail.hidden {
+/*   display: none;*/
+}
+
+article {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 8.875rem;
+    position: relative;
+}
+
+
+article .metadata{
+    display: flex;
+    flex-direction:column;
+    margin: 0 0 0 1rem;
+    width: 60%;
+}
+
+article .genre{
+    display: flex;
+    flex-direction:row;
+    margin: 17px 0;
+
+    position: absolute;
+    bottom: 0;
+}
+
+article img:first-child {
+    height: 100%;
+    display: block;
+}
+
+span{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: var(--default-color-text);
+    font-size: 13px;
+    background: var(--default-color-grey);
+    padding: 7px 12px;
+    margin: 0 10px 0 0;
+    border-radius: 5px;
+}
+
+iframe {
+    display: flex;
+    width: 100%;
+    height: 10rem;
+}
+
+/*Media queries*/
+
+@media screen and (min-width: 50rem) {
+    body {
+/*        background-color: red;*/
+    }
+    article {
+        background: white;
+        box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.16);
+        height: 10rem;
+    }
+
+    article:hover {
+
+        box-shadow: 0 3px 30px 0 rgba(0, 0, 0, 0.16);
+    }
+
+    h1{
+        margin: 2.7rem 1.5rem 2rem 0;
+    }
+
+    h2 {
+        margin: 0.8rem 0 0.5rem;
+    }
+    section.overzicht {
+    grid-template-columns: 1fr 1fr;
+
+    }
+}
+
+@media screen and (min-width: 70rem) {
+    body {
+/*        background-color: red;*/
+    }
+    section.overzicht {
+    grid-template-columns: 1fr 1fr 1fr;
+
+    }
+}

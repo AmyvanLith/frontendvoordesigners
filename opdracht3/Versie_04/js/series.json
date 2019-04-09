@@ -1,0 +1,279 @@
+[
+    {
+        "id": 1,
+        "type": "Serie",
+        "title": "Lucifer",
+        "plot": "bored from his sulking life in hell, comes to live in Los Angeles. While there, he helps humanity with its miseries through his experience and telepathic abilities to bring people's deepest desires and thoughts out of them. While meeting with a girl in his nightclub (called Lux), a shootout involving him and the girl leads him to become a LAPD consultant who tries to punish people for their crimes through law and justice.",
+        "simple_plot": "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+        "release_date": "1 September 2017",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMjI4MTU0NzE1OF5BMl5BanBnXkFtZTgwODI3NDc0OTE@._V1_SY1000_CR0,0,646,1000_AL_.jpg",
+        "trailer": "https://www.imdb.com/title/tt4052886/videoplayer/vi2678240793",
+        "genres": ["Crime", "Drama", "Fantasy"],
+        "directors": [
+            {
+                "id": 2,
+                "name": "Tom Kapinos",
+                "movie_id": 1
+            }],
+        "actors": [
+            {
+                "id": 3,
+                "actor_name": "Bruce Campbell",
+                "movie_id": 1,
+                "character": "Ashley 'Ash' J. Williams",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BOTY2MTg0OTEzOV5BMl5BanBnXkFtZTgwNzQ3NTcwMjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0132257/"
+            }, {
+                "id": 4,
+                "actor_name": "Ellen Sandweiss",
+                "movie_id": 1,
+                "character": "Cheryl",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTI1MzA4NjQzNF5BMl5BanBnXkFtZTYwODE4MTky._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0762445/"
+            }, {
+                "id": 5,
+                "actor_name": "Jessica Lucas",
+                "movie_id": 1,
+                "character": "Olivia",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BNjI5NDA1MDYxMF5BMl5BanBnXkFtZTcwODU5NjgyMQ@@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm1140300/"
+            }, {
+                "id": 6,
+                "actor_name": "Elizabeth Blackmore",
+                "movie_id": 1,
+                "character": "Shelly",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BNTUzODc2OWItM2M2OS00YTQyLTgyMmItYTI2N2EwOWQxODM4XkEyXkFqcGdeQXVyMjgzMTMxMTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm3899933/"
+            }]
+    }, {
+        "id": 2,
+        "type": "Serie",
+        "title": "Modern Family",
+        "plot": "Told from the perspective of an unseen documentary filmmaker, the series offers an honest, often-hilarious perspective of family life. Parents Phil and Claire yearn for an honest, open relationship with their three kids, but a daughter who is trying to grow up too fast, another who is too smart for her own good, and a rambunctious young son make it challenging. Claire's dad Jay and his Latina wife Gloria are raising two sons together, but people sometimes believe Jay to be Gloria's father. Jay's gay son Mitchell and his partner Cameron have adopted a little Asian girl, completing one big -- straight, gay, multicultural, traditional -- happy family.",
+        "simple_plot": "Three different but related families face trials and tribulations in their own uniquely comedic ways.",
+        "release_date": "23 september 2009",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTU2NTU3OTE5NF5BMl5BanBnXkFtZTgwMDAzMjE1NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "trailer": "https://www.imdb.com/videoembed/vi3967726361",
+        "genres": ["Comedy", "Romance"],
+        "directors": [
+            {
+                "id": 2,
+                "name": "Steven Levitan",
+                "movie_id": 2
+            }],
+        "actors": [
+            {
+                "id": 3,
+                "actor_name": "Ed O'Neill",
+                "movie_id": 1,
+                "character": "Jay Pritchett",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BNTI2NjcyODk0NV5BMl5BanBnXkFtZTgwNTMxODc4NzE@._V1_SY1000_CR0,0,792,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0132257/"
+            }, {
+                "id": 4,
+                "actor_name": "Sofía Vergara",
+                "movie_id": 2,
+                "character": "Gloria Delgado-Pritchett",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTU2MjcyMDg1OV5BMl5BanBnXkFtZTgwMTgwMzQwMDI@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0005527/?ref_=tt_cl_t2"
+            }, {
+                "id": 5,
+                "actor_name": "Julie Bowen",
+                "movie_id": 2,
+                "character": "Claire Dunphy",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMjIxMjI3ODI5M15BMl5BanBnXkFtZTcwNjIyNTA0NA@@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0100866/?ref_=tt_cl_t3"
+            }, {
+                "id": 6,
+                "actor_name": "Ty Burrell",
+                "movie_id": 2,
+                "character": "Phil Dunphy",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTM2MjE1NzIxNl5BMl5BanBnXkFtZTcwNTY4NjI4NA@@._V1_SY1000_CR0,0,665,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0123092/?ref_=tt_cl_t4"
+            }]
+    }, {
+        "id": 3,
+        "type": "Serie",
+        "title": "Brooklyn Nine-Nine ",
+        "plot": "Captain Ray Holt takes over Brooklyn's 99th precinct, which includes Detective Jake Peralta, a talented but carefree detective who's used to doing whatever he wants. The other employees of the 99th precinct include Detective Amy Santiago, Jake's over achieving and competitive partner; Detective Rosa Diaz, a tough and kept to herself coworker; Detective Charles Boyle, Jake's best friend who also has crush on Rosa; Detective Sergeant Terry Jeffords, who was recently taken off the field after the birth of his twin girls; and Gina Linetti, the precinct's sarcastic administrator.",
+        "simple_plot": "Jake Peralta, an immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.",
+        "release_date": "17 september 2013",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMGU3NGYyYTYtYjIzMS00ZmUwLTlmMjAtZDhhMzFiNWI0NzNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,701,1000_AL_.jpg",
+        "trailer": "https://www.imdb.com/videoembed/vi4257724953",
+        "genres": ["Crime", "Comedy"],
+        "directors": [
+            {
+                "id": 2,
+                "name": "Daniel J. Goor",
+                "movie_id": 3
+            }],
+        "actors": [
+            {
+                "id": 3,
+                "actor_name": "Andy Samberg",
+                "movie_id": 3,
+                "character": "Jake Peralta",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BNDg3NDk3ODI0Ml5BMl5BanBnXkFtZTgwOTE3MTE4NTM@._V1_SY1000_CR0,0,723,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm1676221/?ref_=tt_cl_t1"
+            }, {
+                "id": 4,
+                "actor_name": "Stephanie Beatriz",
+                "movie_id": 3,
+                "character": "Rosa Diaz",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BYmQ5ZDc3ZDctN2I2Mi00NWI3LWFkNDAtOTJhNDViODIwODQ5XkEyXkFqcGdeQXVyMjMyOTczMTk@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm3715867/?ref_=tt_cl_t2"
+            }, {
+                "id": 5,
+                "actor_name": "Terry Crews",
+                "movie_id": 3,
+                "character": "Terry Jeffords",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMjE1ODY0NzE4N15BMl5BanBnXkFtZTcwMTY5Mzk0Mw@@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0187719/?ref_=tt_cl_t3"
+            }, {
+                "id": 6,
+                "actor_name": "Melissa Fumero",
+                "movie_id": 3,
+                "character": "Amy Santiago",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTY1OTk1NzQwOF5BMl5BanBnXkFtZTgwNDUzNTA3NjE@._V1_SX749_CR0,0,749,999_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0303073/?ref_=tt_cl_t4"
+            }]
+    }, {
+        "id": 4,
+        "type": "Serie",
+        "title": "Gilmore Girls",
+        "plot": "Thirty-two year old single mom, Lorelai, lives with her teenage daughter Rory in the small town of Stars Hollow, Connecticut, with crazy neighbors and many ups and downs.",
+        "simple_plot": "A dramedy centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut.",
+        "release_date": "5 oktober 2000",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTQ3NDA1ZWYtYjBmMC00NmJjLWI1NjgtYjg2NDhmMTY2YWQ4XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_.jpg",
+        "trailer": "https://www.imdb.com/videoembed/vi1554645273",
+        "genres": ["Comedy", "Drama"],
+        "directors": [
+            {
+                "id": 2,
+                "name": "Amy Sherman-Palladino",
+                "movie_id": 4
+            }],
+        "actors": [
+            {
+                "id": 3,
+                "actor_name": "Lauren Graham",
+                "movie_id": 4,
+                "character": "Lorelai Gilmore",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTc4OTQ0NTExMV5BMl5BanBnXkFtZTYwMDkyNDQz._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0334179/?ref_=tt_cl_t1"
+            }, {
+                "id": 4,
+                "actor_name": "Alexis Bledel",
+                "movie_id": 4,
+                "character": "Rory Gilmore",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTc4NTg4ODU0Ml5BMl5BanBnXkFtZTgwOTA1MjUwNDE@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0088127/?ref_=tt_cl_t2"
+            }, {
+                "id": 5,
+                "actor_name": "Keiko Agena",
+                "movie_id": 4,
+                "character": " Lane Kim",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMGRjNTFjYjAtMDNmNC00YzNiLTlmMGYtYTAwOTgzYTc0YzUwXkEyXkFqcGdeQXVyMTU5NTcxMzk@._V1_SY1000_CR0,0,667,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0012962/?ref_=tt_cl_t3"
+            }, {
+                "id": 6,
+                "actor_name": "Scott Patterson",
+                "movie_id": 4,
+                "character": "Luke Danes",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTQ4NjQ5MjI0Ml5BMl5BanBnXkFtZTYwOTg3Mjg1._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0666398/?ref_=tt_cl_t4"
+            }]
+    }, {
+        "id": 5,
+        "type": "Serie",
+        "title": "Good Girls",
+        "plot": "Three suburban mothers suddenly find themselves in desperate circumstances and decide to stop playing it safe and risk everything to take their power back.",
+        "simple_plot": "Three suburban mothers suddenly find themselves in desperate circumstances and decide to stop playing it safe and risk everything to take their power back.",
+        "release_date": "26 February 2018",
+        "cover": "https://m.media-amazon.com/images/M/MV5BOTVjNDZmNjEtZTFkYy00YjNkLWE3NmUtYTY0YWU4MWNiNGFhXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg",
+        "trailer": "https://www.imdb.com/videoembed/vi709605913",
+        "genres": ["Crime", "Drama", "Comedy"],
+        "directors": [
+            {
+                "id": 2,
+                "name": "Jenna Bans",
+                "movie_id": 5
+            }],
+        "actors": [
+            {
+                "id": 3,
+                "actor_name": "Christina Hendricks",
+                "movie_id": 5,
+                "character": "Beth Boland",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMjA5Njg3NDkxNV5BMl5BanBnXkFtZTgwNDczMTgyODE@._V1_SY1000_SX750_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0376716/?ref_=tt_cl_t1"
+            }, {
+                "id": 4,
+                "actor_name": "Retta",
+                "movie_id": 5,
+                "character": "Ruby Hill",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMjQyMTQ2MjQ5Ml5BMl5BanBnXkFtZTgwNzY3MDAxNzE@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0802876/?ref_=tt_cl_t2"
+            }, {
+                "id": 5,
+                "actor_name": "Reno Wilson",
+                "movie_id": 5,
+                "character": "Stan Hill",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMmE3ZGE4MzUtMzNjYS00NzBkLWEzOGEtMDk5NTcwOWRiZWJiXkEyXkFqcGdeQXVyMzEzNTQ2OA@@._V1_SY1000_CR0,0,667,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0934008/?ref_=tt_cl_t3"
+            }, {
+                "id": 6,
+                "actor_name": "Lidya Jewett",
+                "movie_id": 5,
+                "character": "Sara Hill",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BZTRlNzM2ZmYtNTAyYS00MGU3LWI2MjgtZGY2M2FlOTQ5MzM3XkEyXkFqcGdeQXVyNDg3NTIyODU@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm6983144/?ref_=tt_cl_t4"
+            }]
+    }, {
+        "id": 6,
+        "type": "Serie",
+        "title": "How I Met Your Mother",
+        "plot": "Ted Mosby sits down with his kids, to tell them the story of how he met their mother. The story is told through memories of his friends Marshall, Lily, Robin, and Barney Stinson. All legendary 9 seasons lead up to the moment of Ted's final encounter with the one.",
+        "simple_plot": "A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother.",
+        "release_date": "19 September 2005",
+        "cover": "https://m.media-amazon.com/images/M/MV5BZWJjMDEzZjUtYWE1Yy00M2ZiLThlMmItODljNTAzODFiMzc2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+        "trailer": "https://www.imdb.com/videoembed/vi2770577433",
+        "genres": ["Comedy", "Romance"],
+        "directors": [
+            {
+                "id": 2,
+                "name": "Carter Bays",
+                "movie_id": 6
+            }],
+        "actors": [
+            {
+                "id": 3,
+                "actor_name": "Josh Radnor",
+                "movie_id": 5,
+                "character": "Ted Mosby",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMjAwNTUxMTM4OF5BMl5BanBnXkFtZTcwNjUyNzc4Mg@@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm1102140/?ref_=tt_cl_t1"
+            }, {
+                "id": 4,
+                "actor_name": "Jason Segel",
+                "movie_id": 6,
+                "character": "Marshall Eriksen",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTUwNzcxNzM1Nl5BMl5BanBnXkFtZTgwNzA5NzU4MjE@._V1_SY1000_CR0,0,750,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0781981/?ref_=tt_cl_t2"
+            }, {
+                "id": 5,
+                "actor_name": "Cobie Smulders",
+                "movie_id": 6,
+                "character": "Robin Scherbatsky",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTkzNTUyMTczM15BMl5BanBnXkFtZTcwMjMxNTM4Nw@@._V1_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm1130627/?ref_=tt_cl_t3"
+            }, {
+                "id": 6,
+                "actor_name": "Neil Patrick Harris",
+                "movie_id": 6,
+                "character": "Barney Stinson",
+                "url_photo": "https://m.media-amazon.com/images/M/MV5BMTUxNjQ4MjU5Ml5BMl5BanBnXkFtZTcwMTY5NzAzNw@@._V1_SY1000_CR0,0,765,1000_AL_.jpg",
+                "url_profile": "https://www.imdb.com/name/nm0000439/?ref_=tt_cl_t4"
+            }]
+    }
+]
