@@ -19,3 +19,8 @@ ___
 Bij de [Vierde versie] wilde ik de serie pagina nog eens proberen. Ik heb 2 json bestanden aangemaakt en heb het inladen van de content algemeen gemaakt. Door middel van een klik event wordt er bepaald welke json word gebruikt voor de content. Zo kan ik wisselen tussen films en series. Dit kan ook met de pijltoetsen links en rechts.
 
 Verder heb ik het loading iets meer uitgewerkt en gezorgt dat dit zitbaar is. Wanneer de pagina wordt geladen komt er kort in beeld te staan dat deze aan het laden is.
+
+___
+
+Je kunt het eindresultaat [hier](https://oege.ie.hva.nl/~litha1/eindopdracht/)
+bekijken
